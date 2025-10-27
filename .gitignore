@@ -1,0 +1,6 @@
+scripts/__pycache__/
+scripts/results/old/
+scripts/results/EmmanuelMacron_timeline.html
+__pycache__/
+data/speechs_data.json
+data/speakers_list.json
